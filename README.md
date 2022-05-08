@@ -17,6 +17,7 @@ Sonra serial_port.py ismindeki python kodunu komut isteminden yada herhangi bir 
 
 ![image](https://user-images.githubusercontent.com/99413396/167316293-375a7ba6-f235-4028-8de6-34c4a506c11b.png)
 ![image](https://user-images.githubusercontent.com/99413396/167316359-3df6c470-2b74-45eb-86a1-c80e3af9b966.png)
+
 Bunları yaptıktan sonra bağlantı başarılı... yazısı çıkmalıdır. Ardından istediğiniz komutu gönderebilirsiniz ama gönderilen kelimelerin bir harfi eksik gidiyor. Mesela scriptoff kelimesini gönderiyorum [b'criptoff'] şeklinde gidiyor kodda düzenleme yaparken buna dikkat ederseniz işiniz kolaylaşacaktır.
 
 ***Önemli nokta bağlantı seçmeden önce python dosyasını çalıştırmalısınız!!! Yoksa hata verecektir.***
