@@ -1,4 +1,4 @@
-# android-to-pc-bluetooth-communication-with-python
+# android-to-windows-bluetooth-communication-with-python
 ***Öncelikle kodlar windows içindir.***
 ___
 
