@@ -13,7 +13,7 @@ ___
 
 Öncelikle bilgisayarla telefonu bluetooth üzerinden eşleştiriyoruz.
 
-Sonra serial_port.py ismindeki python kodunu komut isteminden yada herhangi bir derleyiciden çalıştırıyoruz. Ardından uygulama üzerinden bağlantı seçinize tıklıyoruz burada daha önceden eşleştirilen cihazlar mac adresleriyle beraber çıkacaklar pc'mizin bulunduğu bluetooth bağlantımızı seçiyoruz.
+Sonra serial_port.py ismindeki python kodunu komut isteminden yada herhangi bir derleyiciden çalıştırıyoruz. Ardından uygulama üzerinden bağlantı seçinize tıklıyoruz burada daha önceden eşleştirilen cihazlar mac adresleriyle beraber çıkacaklar bilgisayarımızın bulunduğu bluetooth bağlantımızı seçiyoruz.
 
 ![image](https://user-images.githubusercontent.com/99413396/167316293-375a7ba6-f235-4028-8de6-34c4a506c11b.png)
 ![image](https://user-images.githubusercontent.com/99413396/167316359-3df6c470-2b74-45eb-86a1-c80e3af9b966.png)
