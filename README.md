@@ -32,4 +32,4 @@ python -m PyInstaller <dosyanızın konumu>
 python -m PyInstaller .\Desktop\serial_port.py
 ```
 
-pyinstaller sizin yerinize python kodunu windows uygulamasına dönüştürecektir kodu yazdıktan sonra oluşan dist klasörünün içinde uygulamayı bulabilirsiniz.
+pyinstaller sizin yerinize python kodunu windows uygulamasına dönüştürecektir yukaridaki kodu yazdıktan sonra oluşan dist klasörünün içinde uygulamayı bulabilirsiniz.
